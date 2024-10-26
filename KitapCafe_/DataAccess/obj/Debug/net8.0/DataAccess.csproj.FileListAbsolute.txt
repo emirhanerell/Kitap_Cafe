@@ -1,0 +1,17 @@
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\bin\Debug\net8.0\Entities.dll
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\bin\Debug\net8.0\Entities.pdb
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache

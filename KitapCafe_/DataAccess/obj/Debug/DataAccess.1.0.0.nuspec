@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DataAccess</id>
+    <version>1.0.0</version>
+    <authors>DataAccess</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\.NET Framework\nArchitecture-master\KitapCafe_\DataAccess\bin\Debug\net8.0\DataAccess.dll" target="lib\net8.0\DataAccess.dll" />
+  </files>
+</package>

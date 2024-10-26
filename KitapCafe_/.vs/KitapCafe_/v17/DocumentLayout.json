@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37BB50CC-F091-4B53-A5BA-9BFC43C3E885}|DataAccess\\DataAccess.csproj|D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\dataaccess\\concrete\\kitapcafecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BB50CC-F091-4B53-A5BA-9BFC43C3E885}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\kitapcafecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812F8190-4141-4824-84B8-C0537DA8B50E}|KitapCafe_\\KitapCafe_.csproj|d:\\.net framework\\narchitecture-master\\kitapcafe_\\kitapcafe_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812F8190-4141-4824-84B8-C0537DA8B50E}|KitapCafe_\\KitapCafe_.csproj|solutionrelative:kitapcafe_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C4CC7B-4D2E-40FD-A258-D3A2A856EFE9}|Entities\\Entities.csproj|D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\entities\\concrete\\wifipassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C4CC7B-4D2E-40FD-A258-D3A2A856EFE9}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\wifipassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C4CC7B-4D2E-40FD-A258-D3A2A856EFE9}|Entities\\Entities.csproj|D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C4CC7B-4D2E-40FD-A258-D3A2A856EFE9}|Entities\\Entities.csproj|solutionrelative:entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812F8190-4141-4824-84B8-C0537DA8B50E}|KitapCafe_\\KitapCafe_.csproj|D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\kitapcafe_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{812F8190-4141-4824-84B8-C0537DA8B50E}|KitapCafe_\\KitapCafe_.csproj|solutionrelative:kitapcafe_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812F8190-4141-4824-84B8-C0537DA8B50E}|KitapCafe_\\KitapCafe_.csproj|D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\kitapcafe_\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812F8190-4141-4824-84B8-C0537DA8B50E}|KitapCafe_\\KitapCafe_.csproj|solutionrelative:kitapcafe_\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BB50CC-F091-4B53-A5BA-9BFC43C3E885}|DataAccess\\DataAccess.csproj|D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37BB50CC-F091-4B53-A5BA-9BFC43C3E885}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\KitapCafe_\\Form1.cs",
+              "RelativeDocumentMoniker": "KitapCafe_\\Form1.cs",
+              "ToolTip": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\KitapCafe_\\Form1.cs",
+              "RelativeToolTip": "KitapCafe_\\Form1.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:47:21.732Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\Entities\\Abstract\\IEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\Abstract\\IEntity.cs",
+              "ToolTip": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\Entities\\Abstract\\IEntity.cs",
+              "RelativeToolTip": "Entities\\Abstract\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:17:54.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataAccess",
+              "DocumentMoniker": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T13:17:29.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\KitapCafe_\\Form1.cs",
+              "RelativeDocumentMoniker": "KitapCafe_\\Form1.cs",
+              "ToolTip": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\KitapCafe_\\Form1.cs [Design]",
+              "RelativeToolTip": "KitapCafe_\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:17:31.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\KitapCafe_\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "KitapCafe_\\Form1.Designer.cs",
+              "ToolTip": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\KitapCafe_\\Form1.Designer.cs",
+              "RelativeToolTip": "KitapCafe_\\Form1.Designer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwFIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:13:05.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WifiPassword.cs",
+              "DocumentMoniker": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\Entities\\Concrete\\WifiPassword.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\WifiPassword.cs",
+              "ToolTip": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\Entities\\Concrete\\WifiPassword.cs",
+              "RelativeToolTip": "Entities\\Concrete\\WifiPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:39:05.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KitapCafeContext.cs",
+              "DocumentMoniker": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\DataAccess\\Concrete\\KitapCafeContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\KitapCafeContext.cs",
+              "ToolTip": "D:\\.NET Framework\\nArchitecture-master\\KitapCafe_\\DataAccess\\Concrete\\KitapCafeContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\KitapCafeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:39:07.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
